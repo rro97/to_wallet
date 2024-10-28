@@ -48,6 +48,8 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+
+    namespace "com.barkibu.add_to_wallet"
 }
 
 flutter {
